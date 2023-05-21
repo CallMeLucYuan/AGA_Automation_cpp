@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <windows.h>
+#include <iostream>
+#include <thread>
+#include <atomic>
+#include <opencv2/opencv.hpp>
+#include "gen_def.h"
+#include "init.h"
+#include "key_input.h"
+#include "State.h"
+#include "StateMachine.h"
+#include "Screenshot.h"
